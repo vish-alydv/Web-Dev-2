@@ -50,4 +50,4 @@ Promise.resolve().then(() => {
     console.log("Promise");
 });
 
-console.log("e")
+console.log("e") 
